@@ -112,6 +112,7 @@
   <string name="action_load_more">"Voir plus"</string>
   <string name="action_manage_account">"Gérer le compte"</string>
   <string name="action_manage_devices">"Gérez les sessions"</string>
+  <string name="action_manage_rooms">"Gérer les salons"</string>
   <string name="action_message">"Message"</string>
   <string name="action_minimize">"Minimiser"</string>
   <string name="action_next">"Suivant"</string>
